@@ -38,7 +38,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-details>
+<details>
   <summary>Client</summary>
   <ul>
     <li><a href="#">HTML5</a></li>
@@ -74,13 +74,14 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 -  git clone https://github.com/Srilearns/Microverse-Mobile-First-Portfolio.git
+
 Example commands:
 
 ```sh
   cd my-folder
   git clone https://github.com/Srilearns/Microverse-Mobile-First-Portfolio.git
 ```
---->
+
 
 ### Install
 
